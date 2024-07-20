@@ -1,6 +1,4 @@
-This is an SQL project to analyze an online music store database.
-
-The project was created to analyze the music playlist database. SQL queries manipulate data to help the store understand its business growth by answering simple questions.
+This is an SQL project to analyze an online music store database. SQL queries manipulate data to help the store understand its business growth by answering simple questions.
 
 A picture of the database schema is also provided below for the reader to understand the relations between various tables better.
 
